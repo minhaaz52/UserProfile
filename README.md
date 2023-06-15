@@ -9,8 +9,4 @@
     implementation 'com.squareup.picasso:picasso:2.71828'   // to change profile picture using url
 
 
-<<<<<<< HEAD
-# Here we are using "https://randomuser.me/"  website for fetching details of random users.
-=======
 # I'm using "https://randomuser.me/"  website for fetching details of random users.
->>>>>>> d1cdec344de7e29424af2d0464285846a288a5c7
